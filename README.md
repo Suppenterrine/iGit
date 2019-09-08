@@ -1,6 +1,7 @@
 # iGit
 
-## Travel app
+## Travel app 
+<img src="https://img.icons8.com/ios/50/000000/europe.png">
 
 **Core features**
 - Achievments
