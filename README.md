@@ -2,7 +2,7 @@
 
 ## Travel app
 
-*Core features*
+**Core features**
 - Achievments
 - Maps (Länder, Kontinente)
 
