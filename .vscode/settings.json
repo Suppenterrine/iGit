@@ -22,7 +22,7 @@
     "git.confirmSync": false,
     "git.autofetch": true,
     "git.enableSmartCommit": true,
-    "workbench.colorTheme": "Material Theme",
+    "workbench.colorTheme": "Material Theme High Contrast",
     "workbench.settings.editor": "json",
     "zenMode.fullScreen": false,
     "breadcrumbs.enabled": false,
