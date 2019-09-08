@@ -1,6 +1,5 @@
 {
     "editor.cursorStyle": "block",
-    "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.cursorBlinking": "phase",
     "editor.minimap.showSlider": "always",
