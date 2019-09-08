@@ -1,2 +1,2 @@
-# CoolRul 
+# CoolRul 😆
 Irgendwas wo wir dran arbeiten.
