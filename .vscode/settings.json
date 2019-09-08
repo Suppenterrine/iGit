@@ -27,5 +27,5 @@
     "zenMode.fullScreen": false,
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": true,
-    "window.zoomLevel": 2
+    "window.zoomLevel": 0
 }
