@@ -1,0 +1,32 @@
+{
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "phase",
+    "editor.minimap.showSlider": "always",
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderControlCharacters": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "files.enableTrash": false,
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.tips.enabled": false,
+    "workbench.editor.labelFormat": "short",
+    "crates.upToDateDecorator": "🎉",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#0092f3ef",
+        "editorBracketMatch.background": "#ff0000c7",
+        "editorBracketMatch.border": "#ff0000"
+    },
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Material Theme",
+    "workbench.settings.editor": "json",
+    "zenMode.fullScreen": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": true,
+    "window.zoomLevel": 0
+}
